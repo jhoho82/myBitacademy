@@ -54,10 +54,11 @@ java -classpath ./bin net.bitacademy.java41.Hello
 Hello!!
 ```
 
-#Java언어로 만든 IDE 이클립스 설치방법
+*Java언어로 만든 IDE 이클립스 설치방법
 -eclipse.org 접속후 JAVA EE JavaDeveloper 압축다운로드
 -압축 풀고 .exe 실행파일 인스톨 
 -설치 완료
--설치후 preferences --> web에 CSS, HTML 파일에 케릭터 인코딩 UTF-8로 설정
+-설치후 preferences --> web에 CSS, HTML 파일에 케릭터 
+  인코딩 UTF-8로 설정
 -Hello.java 를 이클립스에서 실행후 Hello!! 가 나오면 성공!! 
 

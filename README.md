@@ -1,7 +1,7 @@
 myBitacademy
 ============
 
-비트아카데미 공부정리
+비트아카데미 교육내용로그정리
 
 #2013년 8월 1일 첫수업 자바수업정리
 
@@ -47,7 +47,7 @@ public class Hello {
 }
 
 ```
-커멘드 창에서..
+커멘드 콘솔창에서..
 
 ```console
 java -classpath ./bin net.bitacademy.java41.Hello
@@ -60,6 +60,6 @@ Hello!!
 -압축 풀고 .exe 실행파일 인스톨 
 -설치 완료
 -설치후 preferences --> web에 CSS, HTML 파일에 케릭터 
-  인코딩 UTF-8로 설정
+ 인코딩 UTF-8로 설정
 -Hello.java 를 이클립스에서 실행후 Hello!! 가 나오면 성공!! 
 

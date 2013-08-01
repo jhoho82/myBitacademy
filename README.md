@@ -47,7 +47,8 @@ public class Hello {
 }
 
 ```
-커멘드 창에서 ...
+커멘드 창에서..
+
 ```console
 java -classpath ./bin net.bitacademy.java41.Hello
 

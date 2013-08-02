@@ -1,0 +1,16 @@
+#2013.8.2 자바수업 교육내용 로그 정리
+
+
+*[명령어 묶기 개념] 
+- 기능별로 묶는다 : functional ==>함수형
+-COBOL에선 Procedure라고 함
+-[function(함수)를 묶기위해 생긴 개념이 바로 class이다.]
+
+*[형상관리란?]
+-소프트웨어 변경을 관리한다. ==> 즉 소스를 관리하겠다는 의미
+-Configuration Management 줄여서 CM 이라고한다 ==>  CM/SCM 
+-Version Control System 이라고도 불리워진다
+-대표적 도구들 ===  CVS / SVN / GIT
+-그밖에 유료버전 도구들 ==> Cleat Case / Sourceface / ..etc
+
+-SVN 충돌시 해결방법 : 충돌난 소스를 다시 Merge하여 commit !!
